@@ -6,12 +6,18 @@ const Transactions = ({
   createTransaction,
   transactions,
   transactionsStats,
+  getCurrentDate,
+  getCurrentTime,
 }) => {
   return (
     <>
       <TransactionsForm createTransaction={createTransaction} />
       <TransactionsStats transactionsStats={transactionsStats} />
-      <TransactionsList transactions={transactions} />
+      <TransactionsList
+        transactions={transactions}
+        getCurrentDate={getCurrentDate}
+        getCurrentTime={getCurrentTime}
+      />
     </>
   );
 };
