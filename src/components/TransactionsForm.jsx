@@ -1,22 +1,23 @@
 import { useFormik } from "formik";
 import * as yup from "yup";
 
-const TransactionsForm = () => {
+const TransactionsForm = ({ createTransaction }) => {
   const initialValues = {
     name: "",
     sum: "",
-    transaction: "",
+    transaction: "income",
   };
 
   const onSubmit = (values) => {
-    console.log(values);
+    createTransaction(values);
+    formik.resetForm();
   };
 
   const validationSchema = yup.object().shape({
     name: yup
       .string()
       .required("Заповніть це поле")
-      .max(16, "Ця назва завелика"),
+      .max(32, "Ця назва завелика"),
     sum: yup
       .string()
       .required("Заповніть це поле")
@@ -58,7 +59,9 @@ const TransactionsForm = () => {
           onChange={formik.handleChange}
           value={formik.values.transaction}
         >
-          <option value="income">Дохід</option>
+          <option value="income">
+            Дохід
+          </option>
           <option value="cost">Витрата</option>
         </select>
       </label>

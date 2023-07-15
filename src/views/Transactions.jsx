@@ -1,11 +1,17 @@
 import TransactionsForm from "../components/TransactionsForm";
 import TransactionsList from "../components/TransactionsList";
+import TransactionsStats from "../components/TransactionsStats";
 
-const Transactions = () => {
+const Transactions = ({
+  createTransaction,
+  transactions,
+  transactionsStats,
+}) => {
   return (
     <>
-      <TransactionsForm />
-      <TransactionsList />
+      <TransactionsForm createTransaction={createTransaction} />
+      <TransactionsStats transactionsStats={transactionsStats} />
+      <TransactionsList transactions={transactions} />
     </>
   );
 };
