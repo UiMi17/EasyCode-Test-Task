@@ -1,11 +1,7 @@
-import './App.css';
+import Transactions from "./views/Transactions";
 
 function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+  return <Transactions />;
 }
 
 export default App;
