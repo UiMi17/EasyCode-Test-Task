@@ -12,7 +12,7 @@ import {
   selectTransactions,
   selectTransactionsStatistic,
 } from "./redux/transactionsSelectors";
-import PalindromeValidation from "./views/PalindromeValidation";
+import PalindromeValidation from "./views/Palindrome";
 
 function App() {
   const dispatch = useDispatch();
