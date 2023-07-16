@@ -1,6 +1,7 @@
 import TransactionsForm from "../components/TransactionsForm";
 import TransactionsList from "../components/TransactionsList";
 import TransactionsStats from "../components/TransactionsStats";
+import TransactionsModal from "../components/TransactionsModal";
 
 const Transactions = ({
   createTransaction,
@@ -8,6 +9,7 @@ const Transactions = ({
   transactionsStats,
   getCurrentDate,
   getCurrentTime,
+  toggleModal,
 }) => {
   return (
     <>
@@ -18,6 +20,7 @@ const Transactions = ({
         getCurrentDate={getCurrentDate}
         getCurrentTime={getCurrentTime}
       />
+      <TransactionsModal toggleModal={toggleModal} />
     </>
   );
 };

@@ -5,6 +5,7 @@ import {
 } from "./redux/transactionsSlice";
 import Transactions from "./views/Transactions";
 import { useDispatch, useSelector } from "react-redux";
+import { useState } from "react";
 import { nanoid } from "nanoid";
 import {
   selectTransactions,
@@ -13,6 +14,7 @@ import {
 
 function App() {
   const dispatch = useDispatch();
+  const [isModalShown, setIsModalShown] = useState(false);
 
   const transactions = useSelector(selectTransactions);
   const transactionsStats = useSelector(selectTransactionsStatistic);
@@ -42,6 +44,10 @@ function App() {
       default:
         break;
     }
+  };
+
+  const toggleModal = () => {
+    setIsModalShown(!isModalShown);
   };
 
   const checkTransactionType = (transaction) => {
@@ -87,6 +93,7 @@ function App() {
       transactionsStats={transactionsStats}
       getCurrentDate={getCurrentDate}
       getCurrentTime={getCurrentTime}
+      toggleModal={toggleModal}
     />
   );
 }

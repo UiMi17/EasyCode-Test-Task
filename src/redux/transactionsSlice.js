@@ -12,7 +12,10 @@ const transactionsSlice = createSlice({
   reducers: {
     addTransaction: (state, { payload }) => {
       state.transactions.push(payload);
+      state.transactions.sort((a, b) => new Date(b.date) - new Date(a.date));
     },
+    editTransaction: (state, action) => {},
+    removeTransaction: (state, action) => {}, // TODO: ADD edit/remove transaction logic
     updateStatsIncome: (state, { payload }) => {
       state.statistic.balance += payload;
       state.statistic.income += payload;
@@ -24,9 +27,6 @@ const transactionsSlice = createSlice({
   },
 });
 
-export const {
-  addTransaction,
-  updateStatsIncome,
-  updateStatsCost,
-} = transactionsSlice.actions;
+export const { addTransaction, updateStatsIncome, updateStatsCost } =
+  transactionsSlice.actions;
 export const transactionsReducer = transactionsSlice.reducer;
