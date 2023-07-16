@@ -1,16 +1,18 @@
+import { nanoid } from "nanoid";
+import { useDispatch, useSelector } from "react-redux";
+import { Route, Routes } from "react-router-dom";
+import { useState } from "react";
 import {
   addTransaction,
   updateStatsCost,
   updateStatsIncome,
 } from "./redux/transactionsSlice";
 import Transactions from "./views/Transactions";
-import { useDispatch, useSelector } from "react-redux";
-import { useState } from "react";
-import { nanoid } from "nanoid";
 import {
   selectTransactions,
   selectTransactionsStatistic,
 } from "./redux/transactionsSelectors";
+import PalindromeValidation from "./views/PalindromeValidation";
 
 function App() {
   const dispatch = useDispatch();
@@ -87,14 +89,22 @@ function App() {
   }
 
   return (
-    <Transactions
-      createTransaction={createTransaction}
-      transactions={transactions}
-      transactionsStats={transactionsStats}
-      getCurrentDate={getCurrentDate}
-      getCurrentTime={getCurrentTime}
-      toggleModal={toggleModal}
-    />
+    <Routes>
+      <Route
+        path="/transactions"
+        element={
+          <Transactions
+            createTransaction={createTransaction}
+            transactions={transactions}
+            transactionsStats={transactionsStats}
+            getCurrentDate={getCurrentDate}
+            getCurrentTime={getCurrentTime}
+            toggleModal={toggleModal}
+          />
+        }
+      />
+      <Route path="/palindrome" element={<PalindromeValidation />} />
+    </Routes>
   );
 }
 

@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <PersistGate loading={null} persistor={persistor}>
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename="/easycode-test-task">
         <App />
       </BrowserRouter>
     </Provider>
