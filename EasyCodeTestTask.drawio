@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T14:38:10.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PRf3gHJvSvBSfL0qqbCh" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T14:44:56.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3raygVz0qfHDIAkodC76" version="21.6.2" type="github">
   <diagram name="Сторінка-1" id="xfX3gdP3Wqh5GX3Ggk49">
-    <mxGraphModel dx="2625" dy="1453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="55" y="119.92857142857143" width="130" height="41.714285714285715" as="geometry" />
         </mxCell>
         <mxCell id="lOXED6V6MMa4JPegtHZu-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29" y="450" width="770" height="820" as="geometry" />
+          <mxGeometry x="29" y="450" width="770" height="850" as="geometry" />
         </mxCell>
         <mxCell id="lOXED6V6MMa4JPegtHZu-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="28" y="390" width="771" height="40" as="geometry" />
@@ -64,206 +64,257 @@
         <mxCell id="lOXED6V6MMa4JPegtHZu-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-30">
           <mxGeometry x="731" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="480" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="740" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="740" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="740" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1000" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="1000" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1000" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="1010" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-49" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-48">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-48">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-48">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-48">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-48">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="323.5" y="495" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-55" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-54">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-54">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-54">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-54">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-54">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-60" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="580" y="750" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-61" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-60">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-60">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-60">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-60">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-60">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="325" y="750" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-67" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-66">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-68" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-66">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-66">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-66">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-66">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-72" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="750" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-73" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-72">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-72">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-72">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-76" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-72">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-72">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-78" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="580" y="490" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-79" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-78">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-78">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-81" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-78">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-82" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-78">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-78">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-84" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="580" y="1010" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-85" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-84">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-86" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-84">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-84">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-88" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-84">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-84">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-90" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="1010" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-91" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Text&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-90">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-90">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-93" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-90">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-94" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-90">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-90">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-96" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="480" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-96">
-          <mxGeometry width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-47" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-96">
-          <mxGeometry x="20" y="10" width="180" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-40" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
-          <mxGeometry x="10" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
-          <mxGeometry x="55" y="55" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
-          <mxGeometry x="55" y="110" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
-          <mxGeometry y="170" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lOXED6V6MMa4JPegtHZu-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
-          <mxGeometry x="82.5" y="170" width="97.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="lOXED6V6MMa4JPegtHZu-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1320" width="771" height="190" as="geometry" />
+          <mxGeometry x="30" y="1350" width="771" height="190" as="geometry" />
         </mxCell>
         <mxCell id="lOXED6V6MMa4JPegtHZu-98" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1280" width="50" height="30" as="geometry" />
+          <mxGeometry x="200" y="1310" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lOXED6V6MMa4JPegtHZu-102" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1280" width="50" height="30" as="geometry" />
+          <mxGeometry x="550" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-110" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="480" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-110">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-47" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-110">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-40" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-47">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-110">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-111" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="309" y="480" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-112" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-111">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-113" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-111">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-114" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-113">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-115" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-113">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-116" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-113">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-113">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-118" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-113">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-119" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-111">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-120" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="480" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-121" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-120">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-122" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-120">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-123" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-122">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-124" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-122">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-125" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-122">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-126" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-122">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-127" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-122">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-128" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-120">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-129" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="750" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-130" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-129">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-131" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-129">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-132" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-131">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-131">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-131">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-135" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-131">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-136" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-131">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-137" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-129">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-138" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="308.5" y="750" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-139" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-138">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-140" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-138">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-141" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-140">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-142" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-140">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-143" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-140">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-144" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-140">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-145" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-140">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-146" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-138">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-147" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="750" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-148" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-147">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-149" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-147">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-150" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-149">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-151" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-149">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-152" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-149">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-153" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-149">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-154" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-149">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-155" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-147">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-156" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="1020" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-157" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-156">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-158" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-156">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-159" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-158">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-160" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-158">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-161" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-158">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-162" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-158">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-163" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-158">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-164" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-156">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-166" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="309" y="1020" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-167" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-166">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-168" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-166">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-169" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-168">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-170" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-168">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-171" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-168">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-172" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-168">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-173" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-168">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-174" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-166">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-175" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="1020" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-176" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-175">
+          <mxGeometry width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-177" value="" style="group" vertex="1" connectable="0" parent="lOXED6V6MMa4JPegtHZu-175">
+          <mxGeometry x="20" y="10" width="180" height="209.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-178" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Назва транзакції&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-177">
+          <mxGeometry x="10" width="150" height="49.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-179" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Сума&lt;/b&gt; &lt;i&gt;0000&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-177">
+          <mxGeometry x="55" y="54.99999999999999" width="60" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-180" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Тип &lt;/b&gt;&lt;i&gt;Дохід&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-177">
+          <mxGeometry x="55" y="109.99999999999999" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-181" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-177">
+          <mxGeometry y="169.99999999999997" width="70" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-182" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-177">
+          <mxGeometry x="82.5" y="169.99999999999997" width="97.5" height="39.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-183" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2023-07-18&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;16:44&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-175">
+          <mxGeometry x="40" y="230" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
