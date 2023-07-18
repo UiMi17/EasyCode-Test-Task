@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T13:50:18.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="V2qm1zycE_3_UPiXh9Ea" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T14:14:29.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X0D3A5_ILvWGVmrkhOj9" version="21.6.2" type="github">
   <diagram name="Сторінка-1" id="xfX3gdP3Wqh5GX3Ggk49">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lOXED6V6MMa4JPegtHZu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="90" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-2" value="Назва транзакції" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-4">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-4">
+          <mxGeometry x="80" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Знайти транзакцію&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-6" value="Сума" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-9" value="Тип" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="77.5" width="240" height="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-23">
+          <mxGeometry width="240" height="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-14" value="Баланс: 0000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-23">
+          <mxGeometry x="55" y="15.642857142857144" width="130" height="41.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-15" value="Дохід: 0000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-23">
+          <mxGeometry x="55" y="67.78571428571429" width="130" height="41.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-16" value="Витрати: 0000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-23">
+          <mxGeometry x="55" y="119.92857142857143" width="130" height="41.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="390" width="771" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-27">
+          <mxGeometry width="770" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-27">
+          <mxGeometry x="1" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOXED6V6MMa4JPegtHZu-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOXED6V6MMa4JPegtHZu-27">
+          <mxGeometry x="731" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
